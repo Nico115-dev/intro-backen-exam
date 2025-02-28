@@ -6,7 +6,7 @@ Este repositorio contiene el diseño de una base de datos relacional para la ges
 
 1. **Diagrama UML E-R**  
    - Un diagrama con entidades, atributos y relaciones.  
-   - Disponible en el siguiente enlace: [Ver Diagrama UML E-R](TU_LINK_AQUI)
+   - De click para ver: [Ver Diagrama UML E-R](TU_LINK_AQUI)
 
 2. **Documentación**  
 
@@ -60,3 +60,5 @@ El diseño de la base de datos permite una gestión eficiente de los datos del c
 
 3. **SQL Script**  
    - Un script SQL que crea las tablas y restricciones necesarias para la base de datos.
+   - De click para ver: [Ver SQL Script](TU_LINK_AQUI)
+
