@@ -6,7 +6,7 @@ Este repositorio contiene el diseño de una base de datos relacional para la ges
 
 1. **Diagrama UML E-R**  
    - Un diagrama con entidades, atributos y relaciones.  
-   - De click para ver: [Ver Diagrama UML E-R](TU_LINK_AQUI)
+   - De click para ver: [Ver Diagrama UML E-R](https://drive.google.com/file/d/1yrnP_DrnOS9Q04wL9MQRfhCMU0spm8DB/view?usp=drive_link)
 
 2. **Documentación**  
 
