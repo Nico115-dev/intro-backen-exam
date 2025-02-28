@@ -60,5 +60,5 @@ El diseño de la base de datos permite una gestión eficiente de los datos del c
 
 3. **SQL Script**  
    - Un script SQL que crea las tablas y restricciones necesarias para la base de datos.
-   - De click para ver: [Ver SQL Script](TU_LINK_AQUI)
+   - De click para ver: [Ver SQL Script](https://drive.google.com/file/d/1nDwc53UqQ96ZgIFE-jMOh2vxTV9nXso_/view?usp=drive_link)
 
